@@ -3,6 +3,28 @@
     <channel>
         <title>ReType</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Wed, 07 Oct 2026 18:08:55 +0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType-1.1.dmg" length="2822052" type="application/octet-stream" sparkle:edSignature="LNUzpmo7nEijTlwZGPnAo8+CD3oUc2Yurw8hKzcPSo+M05bMasmYzB0RLrBXRDjwJ1Qgtc2y1q7m754/7bRwAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType3-1.delta" sparkle:deltaFrom="1" length="365170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uDUQX4OVCdKME/uwLNCTS3Tm2W4N2zDRm6VP6nvxdV4kxeGM8uLZiUzXnkKiYOq324oPQBDWm72cyyMZY1x+Dg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1</title>
+            <pubDate>Wed, 07 Oct 2026 18:08:55 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType-1.1.dmg" length="2726178" type="application/octet-stream" sparkle:edSignature="P4hGt+n4SiNGD0Ju/OAYZw1cRLQX6ArzTchYU8LJMp2W7dmi/Q0LdbHiyWyqhxQYCV2m1AYlAvxjGH5Qkp7eBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType2-1.delta" sparkle:deltaFrom="1" length="272166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yKypYyybiQADnPUjubv89eg7yj6Domtaghn+KzDGWsNueL5fu/woRSh2eZZhy3jDR1bhdBTUfWRu9UYes/9oAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Tue, 06 Oct 2026 12:19:40 +0300</pubDate>
             <sparkle:version>1</sparkle:version>
