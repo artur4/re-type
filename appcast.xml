@@ -3,6 +3,20 @@
     <channel>
         <title>ReType</title>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Sun, 01 Nov 2026 01:27:30 +0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType-1.2.2.dmg" length="3875676" type="application/octet-stream" sparkle:edSignature="BHLCBoaGndmIJE8gLRa3aY3gTK2r7l631YMwrJJbtHQLMuINWIH2gcNm28EggOgz5yGNC6VvImz5mFbRytKhAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType6-5.delta" sparkle:deltaFrom="5" length="142842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4XTOtIvfcaUY49onQBuxKDy90qyfPIup4Y6iVAHpXXYIsRYPNLyb/PfLPQ7xPai05/B2barOMrhtj11+QD67Ag=="/>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType6-4.delta" sparkle:deltaFrom="4" length="280934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OKJv2DHH0ocAJaFExLDGsMgBlXhzP19zv9nJaIwMFHE2jrOWgetX4CR/Wo/kz7/qXWjhlCnweTjho1gYNOCKAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType6-3.delta" sparkle:deltaFrom="3" length="1140602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5+QOdf1l0eHXbED7IeK6wKs0ZT2Wz4H/iVi51AkAPUYqRtoUn0QgedMEw5qk+qF4yZ60nHZdskNf7LcsERauBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType6-1.delta" sparkle:deltaFrom="1" length="1207938" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sRsUnrPdlNT9qukgHn+cKzsIo5Cq6bz0yB/RQ5Fip//QFTUMbfbTUza+NVRZV9gCPOdtJKKdcmRBbxFMVRlhAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Sat, 31 Oct 2026 03:38:36 +0300</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -25,17 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType4-3.delta" sparkle:deltaFrom="3" length="1068550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oW4SIjl1dFWLIm/7GVt0s6NKxPXUBiKM6OsAdNm9uwpy4M+7lGIs0DW/QRPyjpg7DhgyXRjDh7o67Mvo7mVAAg=="/>
                 <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType4-1.delta" sparkle:deltaFrom="1" length="1143398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rrDp0VsS6fKtc6AYaucFqDcwISK8BvfKIrq5UDRWwy/32IL9V6tLt5Oi+EHNchuY9ky90ON7aXtQ4w65NMiYBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Wed, 07 Oct 2026 18:08:55 +0300</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType-1.1.dmg" length="2822052" type="application/octet-stream" sparkle:edSignature="LNUzpmo7nEijTlwZGPnAo8+CD3oUc2Yurw8hKzcPSo+M05bMasmYzB0RLrBXRDjwJ1Qgtc2y1q7m754/7bRwAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType3-1.delta" sparkle:deltaFrom="1" length="365170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uDUQX4OVCdKME/uwLNCTS3Tm2W4N2zDRm6VP6nvxdV4kxeGM8uLZiUzXnkKiYOq324oPQBDWm72cyyMZY1x+Dg=="/>
             </sparkle:deltas>
         </item>
     </channel>
