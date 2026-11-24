@@ -3,6 +3,21 @@
     <channel>
         <title>ReType</title>
         <item>
+            <title>1.2.5</title>
+            <pubDate>Tue, 24 Nov 2026 14:15:08 +0300</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType-1.2.5.dmg" length="7360151" type="application/octet-stream" sparkle:edSignature="UFNaG43aIVW1zkJExF0/DPWtC5Ffaa+27LIsSqgMA7Kvw24k9rRbBB1wd/HLLgmuAAhMVN/jpfaxc572yEkkCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType10-8.delta" sparkle:deltaFrom="8" length="223530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0cOr9zm64X0q6yq4MHlUCXYckNL5AxcVrch5aRBB8BwsOvrlNKumtOJOlZ5Vm/m1KgBAQzJLgIGwywHOTwtbBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType10-7.delta" sparkle:deltaFrom="7" length="2436070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q8+sX2r467ekoAjM0JSrlQXrrJ0H3QmWHIb46Ity0vn2FmE1xLQgVdydOdRxcSOII0RWghP3zJgIrn2cq+keDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType10-6.delta" sparkle:deltaFrom="6" length="2458410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5ja+DBVmehWAhXT/a2expHiLHBv0RjkxvII4ZDyt7p2zbJikTKPsuSP2nG/P9c/a0aEdpl4JDDvX6y/ZQMxrBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType10-5.delta" sparkle:deltaFrom="5" length="2458918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eT5LhILoHjmnOSQEEGRqhivWgtrD7dK946uC0Lnw6GlpWo0KXGUDh5y0XP0HA+cQJrr2thXuqYYH6eJ1x+xjAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType10-4.delta" sparkle:deltaFrom="4" length="2513410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Bl7WnO3/aGO2VhmS1NvxwE8wF9rb8bA4g62VqVdaxw0rxSq6w7VQcyMTK3wySzUcywM+0fMckZ9RHLFOA/wEBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.4</title>
             <pubDate>Wed, 11 Nov 2026 18:36:38 +0300</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -30,20 +45,6 @@
                 <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType7-4.delta" sparkle:deltaFrom="4" length="287774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+u96MB1fpn2vzBMgepAajCFjCAhYSX1rlruItmGggGJDDj0VBYYmcI5VbOaOiU9kyee0H2ptj75jfdOn5fNNAw=="/>
                 <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType7-3.delta" sparkle:deltaFrom="3" length="1146810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WXeX9wPj7xTEOJVbOEE6F1OsYacMxp/dDegCSW4jHGNhM6c8oaJmSY8MolPYPNGz0m466oX42N8umTfEQU5KCA=="/>
                 <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType7-1.delta" sparkle:deltaFrom="1" length="1213234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gKOx2viZ2acmAw+ayvnOPF7FzQdfh55nxv7xEXh/63QSTLVyJynUef0WpFhmu2ETNiUAhlqKPrdY9P6GAxYgDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.2</title>
-            <pubDate>Sun, 01 Nov 2026 01:27:30 +0300</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType-1.2.2.dmg" length="3875676" type="application/octet-stream" sparkle:edSignature="BHLCBoaGndmIJE8gLRa3aY3gTK2r7l631YMwrJJbtHQLMuINWIH2gcNm28EggOgz5yGNC6VvImz5mFbRytKhAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType6-5.delta" sparkle:deltaFrom="5" length="142842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4XTOtIvfcaUY49onQBuxKDy90qyfPIup4Y6iVAHpXXYIsRYPNLyb/PfLPQ7xPai05/B2barOMrhtj11+QD67Ag=="/>
-                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType6-4.delta" sparkle:deltaFrom="4" length="280934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OKJv2DHH0ocAJaFExLDGsMgBlXhzP19zv9nJaIwMFHE2jrOWgetX4CR/Wo/kz7/qXWjhlCnweTjho1gYNOCKAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType6-3.delta" sparkle:deltaFrom="3" length="1140602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5+QOdf1l0eHXbED7IeK6wKs0ZT2Wz4H/iVi51AkAPUYqRtoUn0QgedMEw5qk+qF4yZ60nHZdskNf7LcsERauBw=="/>
-                <enclosure url="https://raw.githubusercontent.com/artur4/re-type/main/ReType6-1.delta" sparkle:deltaFrom="1" length="1207938" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sRsUnrPdlNT9qukgHn+cKzsIo5Cq6bz0yB/RQ5Fip//QFTUMbfbTUza+NVRZV9gCPOdtJKKdcmRBbxFMVRlhAw=="/>
             </sparkle:deltas>
         </item>
     </channel>
